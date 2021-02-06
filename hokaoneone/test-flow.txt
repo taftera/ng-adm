@@ -1,0 +1,45 @@
+1. IMC
+└── 2. ¿Qué distancia corres regularmente?
+	├── Más de 21km
+	│	└── 3.1 Corres más frecuentemente en: ¿Calle ó Trail (sendero)?
+	│		├── Trail
+	│		│	└── 4.1 'Speedgoat 4'; //20200316 - Speedgoat 3
+	│		│
+	│		└── Calle
+	│			└── 4.2 ¿Cuál es tu tipo de pisada?
+	│				├── Neutral
+	│				│	└── 5.1 ¿A veces corres en Trail (sendero)?
+	│				│		├── Si
+	│				│		│	└── 6.1	'Challenger ATR 5';
+	│				│		└── No
+	│				│			└── 6.2 Dependiendo IMC
+	│				│				├── Sobrepeso
+	│				│				│	└── 'Bondi 6'; // 20190411 - Bondi 5 // 20190829 - Mach 2
+	│				│				└── No Sobrepeso
+	│				│					└── 'Clifton 6'; //20190828 - Clifton 5
+	│				│		
+	│				│		
+	│				│
+	│				└── Pronador
+						└── 5.2 'Arahi 4'; // 20200515 - Arahi 3
+	│
+	└── Menos de 21km
+		└── 3.2 Corres más frecuentemente en: ¿Calle ó Trail (sendero)?
+			├── Trail
+			│	└── 7.1 'Challenger ATR 5';
+			│
+			└── Calle
+				└── 7.2 ¿Cuál es tu tipo de pisada?
+					├── Neutral
+					│	└── 8.1 ¿Combinas Trail a veces(sendero)?
+					│		├── Si
+					│		│	└── 9.1 'Challenger ATR 5';
+					│		└── No
+					│			└── 9.2 Dependiendo el tiempo
+					│				├── Menor a 4.3min por 10kms
+					│				│	└── 'Rincon'; // 20190829 - Cavu
+					│				└── Mayor
+					│					└── 'Mach 3'; // 20200515 - Mach 2 | 20190411 - Clifton 5
+					│
+					└── Pronador
+						└── 8.2 'Arahi 4'; // 20200515 - Arahi 3
